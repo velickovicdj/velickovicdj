@@ -1,4 +1,4 @@
-## Hi there, my name is Đorđe 👋
+## Hello 👋 my name is Đorđe.
 
 ### I'm a Computer Science student and I'm working and learning!
 
