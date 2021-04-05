@@ -4,7 +4,7 @@
 
 - 🔭 Getting better at web development.
 - 🌱 I’m currently learning React.js.
-- 👯 Looking to get my first web dev job.
+- 👀 Looking to get my first dev job.
 - ⚡ Fun fact: I'm also a musician 😆
 
 ### Languages & tools:
