@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning React.js.
 - 👀 Looking to get my first dev job.
 - ⚡ Fun fact: I'm also a musician 😆
+- 🔗 Check out my website at [velickovicdj.github.io](https://velickovicdj.github.io)
 
 ### Languages & tools:
 
