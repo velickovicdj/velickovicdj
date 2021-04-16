@@ -27,10 +27,10 @@
 
 ### Connect with me:
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" alt="velickovicdj | Facebook" width="25px" height="25px" />][Facebook]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" alt="velickovicdj | Instagram" width="25px" height="25px" />][Instagram]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" alt="velickovicdj | Twitter" width="25px" height="25px" />][Twitter]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="velickovicdj | Linkedin" width="25px" height="25px" />][Linkedin]
+[<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" alt="velickovicdj | Facebook" width="25px" height="25px" />][Facebook]
+[<img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-256.png" alt="velickovicdj | Instagram" width="25px" height="25px" />][Instagram]
+[<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-twitter-256.png" alt="velickovicdj | Twitter" width="25px" height="25px" />][Twitter]
+[<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" alt="velickovicdj | Linkedin" width="25px" height="25px" />][Linkedin]
 
 <!-- Links -->
 
