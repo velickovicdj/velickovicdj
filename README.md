@@ -1,12 +1,12 @@
-## Hello 👋 my name is Đorđe.
+## Hello :wave: my name is Đorđe.
 
 ### I'm a Computer Science student and I'm working and learning!
 
-- 🔭 Getting better at web development.
-- 🌱 I’m currently learning React.js.
-- 👀 Looking to get my first dev job.
-- ⚡ Fun fact: I'm also a musician 😆
-- 🔗 Check out my website at [velickovicdj.github.io](https://velickovicdj.github.io)
+- :telescope: Getting better at web development.
+- :seedling: I’m currently learning React.js.
+- :eyes: Looking to get my first dev job.
+- :zap: Fun fact: I'm also a musician. :satisfied:
+- :link: Check out my website at [velickovicdj.github.io](https://velickovicdj.github.io)
 
 ### Languages & tools:
 
@@ -30,6 +30,7 @@
 [<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" alt="velickovicdj | Facebook" width="25px" height="25px" />][Facebook]
 [<img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-256.png" alt="velickovicdj | Instagram" width="25px" height="25px" />][Instagram]
 [<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-twitter-256.png" alt="velickovicdj | Twitter" width="25px" height="25px" />][Twitter]
+[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Reddit3_colored_svg-256.png" alt="velickovicdj | Reddit" width="25px" height="25px" />][Reddit]
 [<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" alt="velickovicdj | Linkedin" width="25px" height="25px" />][Linkedin]
 
 <!-- Links -->
@@ -51,4 +52,5 @@
 [Facebook]: https://www.facebook.com/djordje.velickovitj
 [Instagram]: https://www.instagram.com/velickovicdj
 [Twitter]: https://twitter.com/velickovicdj
+[Reddit]: https://www.reddit.com/user/velickovicdj
 [Linkedin]: https://www.linkedin.com/in/đorđe-veličković-6a295920a
