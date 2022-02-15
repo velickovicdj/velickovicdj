@@ -3,8 +3,7 @@
 ### I'm a Computer Science student and I'm working and learning!
 
 - :telescope: Getting better at web development.
-- :seedling: I’m currently learning React.js.
-- :eyes: Looking to get my first dev job.
+- :seedling: Currently learning .NET development.
 - :zap: Fun fact: I'm also a musician. :satisfied:
 - :link: Check out my website at [velickovicdj.github.io](https://velickovicdj.github.io)
 
@@ -27,11 +26,10 @@
 
 ### Connect with me:
 
-[<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" alt="velickovicdj | Facebook" width="25px" height="25px" />][Facebook]
-[<img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-256.png" alt="velickovicdj | Instagram" width="25px" height="25px" />][Instagram]
-[<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-twitter-256.png" alt="velickovicdj | Twitter" width="25px" height="25px" />][Twitter]
-[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Reddit3_colored_svg-256.png" alt="velickovicdj | Reddit" width="25px" height="25px" />][Reddit]
-[<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" alt="velickovicdj | Linkedin" width="25px" height="25px" />][Linkedin]
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174848.png" alt="velickovicdj | Facebook" width="25px" height="25px" />][Facebook]
+[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="velickovicdj | Instagram" width="25px" height="25px" />][Instagram]
+[<img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536424.png?token=exp=1644936334~hmac=5fbbac78267770c919f91e8675f6f15e" alt="velickovicdj | Twitter" width="25px" height="25px" />][Twitter]
+[<img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1644936470~hmac=90dd7a5b7c93481643a5776fb3af98f3" alt="velickovicdj | Linkedin" width="25px" height="25px" />][Linkedin]
 
 <!-- Links -->
 
