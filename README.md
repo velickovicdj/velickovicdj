@@ -1,6 +1,6 @@
-## Hello :wave: my name is Đorđe.
+## Hi :wave:, my name is Đorđe.
 
-### I'm a Computer Science student and I'm working and learning!
+### I'm a computer science student and I'm working and learning!
 
 - :telescope: Getting better at web development.
 - :seedling: Currently learning .NET development.
