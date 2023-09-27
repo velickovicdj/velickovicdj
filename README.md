@@ -6,4 +6,4 @@
 
 |**[O3C](https://velickovicdj.github.io/O3C/)**			 																							  												  				  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[<img src="https://raw.githubusercontent.com/velickovicdj/O3C/main/src/assets/logo.png" width="100">](https://velickovicdj.github.io/O3C/)|
+|[<img src="https://raw.githubusercontent.com/velickovicdj/O3C/main/src/assets/logo.png" width="75">](https://velickovicdj.github.io/O3C/)|
